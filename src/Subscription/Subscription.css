@@ -1,0 +1,14 @@
+.subscription{
+    margin-top: 3em;
+}
+.subscription-card{
+    margin-right: 10px;
+}
+.subscription-card2{
+    border: 1px solid rgba(0, 9, 255, 0.58) !important;
+}
+
+.subscription-card3{
+    border: 3px solid rgb(131, 16, 16) !important;
+    box-shadow: 3px 3px rgb(250, 0, 0) !important;
+}
